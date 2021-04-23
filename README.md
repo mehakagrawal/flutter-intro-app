@@ -1,6 +1,6 @@
-# intro
+# Flutter Intro App
 
-A new Flutter project.
+This is my first very simple and easiest flutter app.
 
 ## Getting Started
 
